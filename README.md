@@ -1,2 +1,2 @@
 # Constructor_Word_Guess_Game
-![Image](/Capture1.jpg)
+![Image](/Capture1.JPG)
