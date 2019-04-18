@@ -1,2 +1,2 @@
 # Constructor_Word_Guess_Game
-![Image of Yaktocat](https://yevheniia01.github.com/Capture1.jpeg)
+![Image](https://yevheniia01.github.com/Capture1.jpg)
